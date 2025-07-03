@@ -22,7 +22,7 @@ Este é um projeto simples em Python com SQLite para controle financeiro pessoal
    git clone https://github.com/seuusuario/controle-financeiro.git
    cd controle-financeiro
 
-2. Execute o Script 
+2. Execute o Script:
 
    python financeiro.py
 
