@@ -19,7 +19,7 @@ Este é um projeto simples em Python com SQLite para controle financeiro pessoal
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/controle-financeiro.git
+   git clone https://github.com/thiagoalberti/controle-financeiro.git
    cd controle-financeiro
 
 2. Execute o Script:
